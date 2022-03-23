@@ -1,0 +1,23 @@
+.divider1{
+  height: 2.5vw;
+}
+.divider2{
+  height: 5vw;
+}
+.divider3{
+  height: 10vw;
+}
+.divider4{
+  height: 15vw;
+}
+.divider5{
+  height: 20vw;
+}
+
+.navHeight{
+  height: 8vw;
+  width: 100vw;
+}
+.navHead{
+  background-color: #c6c5b9;
+}
