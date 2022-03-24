@@ -1,3 +1,8 @@
+html{
+    overflow-x: hidden;
+}
+
+
 .divider1{
   height: 2.5vw;
 }
@@ -63,4 +68,11 @@
 }
 .col-12{
     border: 1px solid blue;
+}
+
+.bottomContact{
+  height: 14vw;
+}
+.bottomContactMini{
+    height: 7vw;
 }
