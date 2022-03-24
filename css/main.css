@@ -21,3 +21,46 @@
 .navHead{
   background-color: #c6c5b9;
 }
+
+.row{
+  border: 1px solid blue;
+}
+.col{
+    border: 1px solid blue;
+}
+.col-1{
+    border: 1px solid blue;
+}
+.col-2{
+    border: 1px solid blue;
+}
+.col-3{
+    border: 1px solid blue;
+}
+.col-4{
+    border: 1px solid blue;
+}
+.col-5{
+    border: 1px solid blue;
+}
+.col-6{
+    border: 1px solid blue;
+}
+.col-7{
+    border: 1px solid blue;
+}
+.col-8{
+    border: 1px solid blue;
+}
+.col-9{
+    border: 1px solid blue;
+}
+.col-10{
+    border: 1px solid blue;
+}
+.col-11{
+    border: 1px solid blue;
+}
+.col-12{
+    border: 1px solid blue;
+}
