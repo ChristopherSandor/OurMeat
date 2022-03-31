@@ -11,5 +11,9 @@
     height: 30vw;
 }
 .mainLogo{
-  width:65vw;
+  width:55vw;
+}
+.imgCenter{
+  justify-content: center;
+  text-align: center;
 }
