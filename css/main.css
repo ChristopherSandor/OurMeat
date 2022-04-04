@@ -27,49 +27,6 @@ html{
   background-color: #c6c5b9;
 }
 
-/* .row{
-  border: 1px solid blue;
-}
-.col{
-    border: 1px solid blue;
-}
-.col-1{
-    border: 1px solid blue;
-}
-.col-2{
-    border: 1px solid blue;
-}
-.col-3{
-    border: 1px solid blue;
-}
-.col-4{
-    border: 1px solid blue;
-}
-.col-5{
-    border: 1px solid blue;
-}
-.col-6{
-    border: 1px solid blue;
-}
-.col-7{
-    border: 1px solid blue;
-}
-.col-8{
-    border: 1px solid blue;
-}
-.col-9{
-    border: 1px solid blue;
-}
-.col-10{
-    border: 1px solid blue;
-}
-.col-11{
-    border: 1px solid blue;
-}
-.col-12{
-    border: 1px solid blue;
-} */
-
 .bottomContact{
   height: 14vw;
 }
@@ -78,5 +35,27 @@ html{
 }
 
 .socialimg {
-  width: 10vw;
+  width: 15vw;
+   transition: 0.3s;
+}
+.socialimg:hover{
+  width: 17vw;
+}
+.headNav{
+  font-family: 'Fredericka the Great', cursive;
+font-size: 5vw;
+text-decoration: none;
+color: black;
+text-align: center;
+   transition: 0.5s;
+}
+.headNav:hover{
+font-size: 6vw;
+}
+a{
+  text-decoration: none;
+}
+.contactTitle{
+  font-family: 'Cantata One', serif;
+font-size: 3vw;
 }

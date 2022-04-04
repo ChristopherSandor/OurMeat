@@ -7,6 +7,16 @@
 .indexAboutHeader{
   height: 9vw;
 }
+.AboutHeaderText{
+    font-size: 9vw;
+    font-family: 'Reenie Beanie', cursive;
+
+}
+.AboutBodyText{
+  font-size: 2vw;
+  font-family: 'Cantata One', serif;
+
+}
 .indexAboutBody{
     height: 26vw;
 }
