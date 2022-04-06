@@ -35,11 +35,13 @@ html{
 }
 
 .socialimg {
-  width: 15vw;
+  width: 18vw;
+  height: 18vw;
    transition: 0.3s;
 }
 .socialimg:hover{
-  width: 17vw;
+  width:20vw;
+    height: 20vw;
 }
 .headNav{
   font-family: 'Fredericka the Great', cursive;

@@ -1,9 +1,28 @@
 .productsimg {
-  width: 30vw;
+  width: 26.8vw;
 }
 
 
-.productitle {
+.producttitle {
   text-align: center;
   justify-content: center;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 50px;
+}
+
+.contacttitle {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 50px;
+}
+
+.img1{
+  background-color: #A15E49;
+  padding-left: .7vw;
+  padding-bottom: .7vw;
+}
+
+.img2{
+  background-color: #546A7B;
+  padding-left: .7vw;
+  padding-bottom: .7vw;
 }
