@@ -23,10 +23,10 @@ html{
   height: 8vw;
   width: 100vw;
 }
-.navHead{
-  background-color: #c6c5b9;
+.indexNavContentHeight{
+  height: 6.5vw;
+    background-color: #c6c5b9;
 }
-
 .bottomContact{
   height: 14vw;
 }

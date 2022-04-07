@@ -1,5 +1,5 @@
 .productsimg {
-  width: 26.8vw;
+  width: 27vw;
 }
 
 
@@ -7,22 +7,56 @@
   text-align: center;
   justify-content: center;
   font-family: 'Reenie Beanie', cursive;
-  font-size: 50px;
+  font-size: 3vw;
 }
 
 .contacttitle {
   font-family: 'Reenie Beanie', cursive;
-  font-size: 50px;
+  font-size: 3vw;
 }
 
 .img1{
-  background-color: #A15E49;
-  padding-left: .7vw;
-  padding-bottom: .7vw;
+  height: 17vw;
+}
+.contain {
+  position: relative;
 }
 
-.img2{
-  background-color: #546A7B;
-  padding-left: .7vw;
-  padding-bottom: .7vw;
+.image5 {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay5 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #ff8080;
+}
+#Limited{
+  background-color: #ffe76e;
+}
+.contain:hover .overlay5 {
+  opacity: 0.8;
+}
+.contain:hover .text {
+  opacity: 1;
+}
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
