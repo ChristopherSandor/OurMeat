@@ -7,7 +7,7 @@
   text-align: center;
   justify-content: center;
   font-family: 'Reenie Beanie', cursive;
-  font-size: 3vw;
+  font-size: 6vw;
 }
 
 .contacttitle {
@@ -38,7 +38,7 @@
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #ff8080;
+  background-color: #bb2828;
 }
 #Limited{
   background-color: #ffe76e;
@@ -59,4 +59,9 @@
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+}
+.productname {
+  font-family: 'Cantata One', serif;
+font-size: 2vw;
+text-decoration: underline;
 }

@@ -1,8 +1,20 @@
 html{
     overflow-x: hidden;
 }
-
-
+.backgroundBelow1{
+  background-color: #cf8a54;
+   background-image: linear-gradient(#cf8a54, #e6bd9b);
+}
+.backgroundBelow{
+  background-color: #e6bd9b;
+  background-image: linear-gradient(#e6bd9b, #cf8a54);
+}
+.backgroundBelow2{
+    background-color: #e6bd9b;
+}
+.divider{
+  height: 1vw;
+}
 .divider1{
   height: 2.5vw;
 }
@@ -23,9 +35,16 @@ html{
   height: 8vw;
   width: 100vw;
 }
+.ribbon{
+  background-color: #bb2828;
+}
 .indexNavContentHeight{
   height: 6.5vw;
-    background-color: #c6c5b9;
+    background-color: #e6bd9b;
+     background-image: linear-gradient(to right, #e6bd9b , #cf8a54);
+    border-color: #bb2828;
+ border-style: solid;
+    border-width: 0.25vw;
 }
 .bottomContact{
   height: 14vw;
@@ -35,13 +54,13 @@ html{
 }
 
 .socialimg {
-  width: 18vw;
-  height: 18vw;
+  width: 3vw;
+  height: 3vw;
    transition: 0.3s;
 }
 .socialimg:hover{
-  width:20vw;
-    height: 20vw;
+  width:3.5vw;
+    height: 3.5vw;
 }
 .headNav{
   font-family: 'Fredericka the Great', cursive;
@@ -52,7 +71,7 @@ text-align: center;
    transition: 0.5s;
 }
 .headNav:hover{
-font-size: 6vw;
+font-size: 5.5vw;
 }
 a{
   text-decoration: none;
